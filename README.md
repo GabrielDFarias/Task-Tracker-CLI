@@ -47,7 +47,7 @@ Cada tarefa é armazenada em um arquivo JSON com as seguintes propriedades:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Linguagem: **(adicione aqui, ex: Python / JavaScript / Node.js)**
+* Linguagem: **Python**
 * Armazenamento: **Arquivo JSON**
 * Bibliotecas externas: **Nenhuma** (apenas módulos nativos)
 
